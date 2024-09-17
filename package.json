@@ -1,0 +1,15 @@
+{
+  "name": "social-links-profile",
+  "version": "1.0.0",
+  "description": "tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "front": "tailwindcss -i ./style.css -o ./mercy.css --watch"
+  },
+  "author": "mercy",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.11"
+  }
+}
